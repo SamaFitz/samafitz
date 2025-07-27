@@ -50,3 +50,33 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
     <img src="images/World%20Happiness%20Rankings.jpeg" width="250">
   </a>
 </p>
+
+
+# LinkedIn Posts
+
+Here’s a collection of my LinkedIn carousels on dashboard design and SQL tips. Click any thumbnail to view the full post on LinkedIn.  
+
+<!-- Row 1 -->
+| [![Dashboard Design Tips - Layout](images/Dashboard%20Design%20Tips%20Layout.jpeg)](https://www.linkedin.com/posts/samafitz_dashboard-design-tips-layout-activity-7185985287053791232-OO-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) 
+| [![Dashboard Design Tips - Color](images/Dashboard%20Design%20Tips%20Color.jpeg)](https://www.linkedin.com/posts/samafitz_dashboard-design-tips-color-activity-7183086180060536832-IodL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) 
+| [![Dashboard Design Tips - Labels](images/Dashboard%20Design%20Tips%20Labels.jpeg)](https://www.linkedin.com/posts/samafitz_dashboard-design-tips-labels-activity-7188167163562668032-UeiD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) 
+| [![SQL Tips - Order of Execution](images/SQL%20Tips%20Order%20of%20Execution.jpeg)](https://www.linkedin.com/posts/samafitz_sql-tips-order-of-execution-activity-7259565168701882368-GM7O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) |
+
+<!-- Row 2 -->
+| [![SQL Tips - CTEs](images/SQL%20Tips%20CTEs.jpeg)](https://www.linkedin.com/posts/samafitz_sql-tips-ctes-activity-7343620240989192192-UlM0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) 
+| [![Dashboard Design Tips - Heatmaps](images/Dashboard%20Design%20Tips%20Heatmaps.jpeg)](https://www.linkedin.com/posts/samafitz_dashboard-design-tips-heatmaps-activity-7343261622137704450-PR8r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) 
+| [![SQL Tips - Query Structure](images/SQL%20Tips%20Query%20Structure.jpeg)](https://www.linkedin.com/posts/samafitz_sql-tips-query-structure-activity-7257738149341097986-xxJ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) 
+| [![Dashboard Design Tips - Bump Charts](images/Dashboard%20Design%20Tips%20Bump%20Charts.jpeg)](https://www.linkedin.com/posts/samafitz_dashboard-design-tips-bump-charts-activity-7257009552678600705-Ec3W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s) |
+
+---
+
+### How to Edit  
+
+- Each **row** in the grid is grouped together (4 items max).  
+- To add a new carousel, just copy one markdown cell, update the **image filename** + **LinkedIn link**, and paste it into the right row.  
+- Once you have 4 in a row, start a new one.  
+
+---
+
+💡 *Future idea:* If you want **even easier editing**, I can create a YAML or JSON list that auto-generates this grid via a small script.  
+
