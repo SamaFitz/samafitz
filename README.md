@@ -53,19 +53,41 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 
 
 # LinkedIn Posts
-| | | | |
-|---|---|---|---|
+## Row 1  
 
-<!-- Row 1 -->
-| <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-layout-activity-7185985287053791232-OO-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/Dashboard%20Design%20Tips%20Layout.jpeg" width="200"></a> 
-| <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-color-activity-7183086180060536832-IodL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/Dashboard%20Design%20Tips%20Color.jpeg" width="200"></a> 
-| <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-labels-activity-7188167163562668032-UeiD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/Dashboard%20Design%20Tips%20Labels.jpeg" width="200"></a> 
-| <a href="https://www.linkedin.com/posts/samafitz_sql-tips-order-of-execution-activity-7259565168701882368-GM7O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/SQL%20Tips%20Order%20of%20Execution.jpeg" width="200"></a> |
+<p align="center">
+  <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-layout-activity-7185985287053791232-OO-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/Dashboard%20Design%20Tips%20Layout.jpeg" width="200">
+  </a>
+  <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-color-activity-7183086180060536832-IodL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/Dashboard%20Design%20Tips%20Color.jpeg" width="200">
+  </a>
+  <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-labels-activity-7188167163562668032-UeiD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/Dashboard%20Design%20Tips%20Labels.jpeg" width="200">
+  </a>
+  <a href="https://www.linkedin.com/posts/samafitz_sql-tips-order-of-execution-activity-7259565168701882368-GM7O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/SQL%20Tips%20Order%20of%20Execution.jpeg" width="200">
+  </a>
+</p>
 
-<!-- Row 2 -->
-| <a href="https://www.linkedin.com/posts/samafitz_sql-tips-ctes-activity-7343620240989192192-UlM0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/SQL%20Tips%20CTEs.jpeg" width="200"></a> 
-| <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-heatmaps-activity-7343261622137704450-PR8r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/Dashboard%20Design%20Tips%20Heatmaps.jpeg" width="200"></a> 
-| <a href="https://www.linkedin.com/posts/samafitz_sql-tips-query-structure-activity-7257738149341097986-xxJ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/SQL%20Tips%20Query%20Structure.jpeg" width="200"></a> 
-| <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-bump-charts-activity-7257009552678600705-Ec3W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s"><img src="images/Dashboard%20Design%20Tips%20Bump%20Charts.jpeg" width="200"></a> |
+---
+
+## Row 2  
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/samafitz_sql-tips-ctes-activity-7343620240989192192-UlM0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/SQL%20Tips%20CTEs.jpeg" width="200">
+  </a>
+  <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-heatmaps-activity-7343261622137704450-PR8r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/Dashboard%20Design%20Tips%20Heatmaps.jpeg" width="200">
+  </a>
+  <a href="https://www.linkedin.com/posts/samafitz_sql-tips-query-structure-activity-7257738149341097986-xxJ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/SQL%20Tips%20Query%20Structure.jpeg" width="200">
+  </a>
+  <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-bump-charts-activity-7257009552678600705-Ec3W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
+    <img src="images/Dashboard%20Design%20Tips%20Bump%20Charts.jpeg" width="200">
+  </a>
+</p>
+
 
 
