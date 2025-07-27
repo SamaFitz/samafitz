@@ -53,7 +53,6 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 
 
 # LinkedIn Posts
-## Row 1  
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-layout-activity-7185985287053791232-OO-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
@@ -70,10 +69,6 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
   </a>
 </p>
 
----
-
-## Row 2  
-
 <p align="center">
   <a href="https://www.linkedin.com/posts/samafitz_sql-tips-ctes-activity-7343620240989192192-UlM0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
     <img src="images/SQL%20Tips%20CTEs.jpeg" width="200">
@@ -88,6 +83,3 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
     <img src="images/Dashboard%20Design%20Tips%20Bump%20Charts.jpeg" width="200">
   </a>
 </p>
-
-
-
