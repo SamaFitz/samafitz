@@ -25,5 +25,32 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 ---
 
 ## 📊 Featured Dashboards  
+<h2>📊 Featured Dashboards</h2>
 
-👉 See below for a quick visual grid of some of my dashboards!  
+<h2>📊 Featured Dashboards</h2>
+
+<!-- Row 1 -->
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ProvisionalCountsofCOVIDPNAFlu/MortalityDashboard">
+    <img src="images/Provisional%20Counts%20of%20COVID-19,%20PNA,%20Flu.jpeg" width="250">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ReadmissionsOverview/ReadmissionsOverview">
+    <img src="images/Readmission%20Overview.jpeg" width="250">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ExecutiveOverviewHealthClinic/ExecutiveOverview">
+    <img src="images/Executive%20Overview%20%7C%20Health%20Clinic.jpeg" width="250">
+  </a>
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/InsurancePayorOverviewHealthClinic/InsurancePayorOverview">
+    <img src="images/Insurance%20Payor%20Overview%20%7C%20Health%20Clinic.jpeg" width="250">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/SuperstoreDashboardRedesign/ExecutiveOverview">
+    <img src="images/Executive%20Overview.jpeg" width="250">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/WorldHappinessRankings_17111357735430/Dashboard1">
+    <img src="images/World%20Happiness%20Rankings.jpeg" width="250">
+  </a>
+</p>
