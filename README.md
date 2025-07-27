@@ -25,10 +25,6 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 ---
 
 ## 📊 Featured Dashboards  
-<h2>📊 Featured Dashboards</h2>
-
-<h2>📊 Featured Dashboards</h2>
-
 <!-- Row 1 -->
 <p align="center">
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ProvisionalCountsofCOVIDPNAFlu/MortalityDashboard">
