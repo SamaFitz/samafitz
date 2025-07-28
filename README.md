@@ -24,8 +24,7 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 
 ---
 
-## 📊 Featured Dashboards  
-# 📊 Tableau Dashboard Portfolio  
+## 📊 Tableau Dashboard Portfolio  
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ProvisionalCountsofCOVIDPNAFlu/MortalityDashboard">
@@ -73,7 +72,7 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 </p>
 
 
-# LinkedIn Posts
+## LinkedIn Posts
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-layout-activity-7185985287053791232-OO-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
