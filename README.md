@@ -25,29 +25,50 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 ---
 
 ## 📊 Featured Dashboards  
-<!-- Row 1 -->
+# 📊 Tableau Dashboard Portfolio  
+
 <p align="center">
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ProvisionalCountsofCOVIDPNAFlu/MortalityDashboard">
-    <img src="images/Provisional%20Counts%20of%20COVID-19,%20PNA,%20Flu.jpeg" width="250">
+    <img src="images/Provisional%20Counts%20of%20COVID-19%20Pneumonia%20and%20Flu2.jpeg" width="200">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/InsurancePayorOverviewHealthClinic/InsurancePayorOverview">
+    <img src="images/Insurance%20Payor%20Overview%20%7C%20Health%20Clinic.jpeg" width="200">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/StaffPerformanceOverviewHealthClinic/StaffPerformanceOverview">
+    <img src="images/Staff%20Performance%20Overview%20%7C%20Health%20Clinic.jpeg" width="200">
   </a>
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ReadmissionsOverview/ReadmissionsOverview">
-    <img src="images/Readmission%20Overview.jpeg" width="250">
-  </a>
-  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ExecutiveOverviewHealthClinic/ExecutiveOverview">
-    <img src="images/Executive%20Overview%20%7C%20Health%20Clinic.jpeg" width="250">
+    <img src="images/Readmissions%20Overview.jpeg" width="200">
   </a>
 </p>
 
-<!-- Row 2 -->
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/InsurancePayorOverviewHealthClinic/InsurancePayorOverview">
-    <img src="images/Insurance%20Payor%20Overview%20%7C%20Health%20Clinic.jpeg" width="250">
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ExecutiveOverviewHealthClinic/ExecutiveOverview">
+    <img src="images/Executive%20Overview%20%7C%20Health%20Clinic.jpeg" width="200">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/VisitDistributionOverviewHealthClinic/VisitDistributionOverview">
+    <img src="images/Visit%20Distribution%20Overview%20%7C%20Health%20Clinic.jpeg" width="200">
   </a>
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/SuperstoreDashboardRedesign/ExecutiveOverview">
-    <img src="images/Executive%20Overview.jpeg" width="250">
+    <img src="images/Superstore%20Executive%20Overview.jpeg" width="200">
   </a>
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/WorldHappinessRankings_17111357735430/Dashboard1">
-    <img src="images/World%20Happiness%20Rankings.jpeg" width="250">
+    <img src="images/World%20Happiness%20Rankings2.jpeg" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/PatientSatisfactionOverviewHealthClinic/PatientSatisfactionOverview2">
+    <img src="images/Patient%20Satisfaction%20Overview.jpeg" width="200">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/SuperstoreExecOverview/Dashboard3">
+    <img src="images/Exec%20Overview%20Bar%20in%20Bars.jpeg" width="200">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/MakeoverMonday-Mostpopularweekdaysmonthsforgivingbirth/Daysofbirth">
+    <img src="images/Popular%20Weekdays%20to%20Give%20Birth.jpeg" width="200">
+  </a>
+  <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/OlympicDashboard_17069096046850/Rio2016Dashboard">
+    <img src="images/Olympics%20Dashboard.jpeg" width="200">
   </a>
 </p>
 
