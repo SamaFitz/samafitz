@@ -77,6 +77,11 @@ I’m a **Data Analytics Consultant** with **14 years of healthcare industry exp
   </a>
 </p>
 
+## 📂 Dashboard Documentation  
+
+Want to see how selected dashboards were built—complete with drilldown logic, interaction flows, and calculation details?  
+
+➡️ [**Explore the Dashboard Docs**](dashboard-docs/README.md)
 
 
 ## LinkedIn Posts
