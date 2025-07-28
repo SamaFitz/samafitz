@@ -1,6 +1,6 @@
 # Hi, I’m Samantha Fitzsimmons 👋  
 
-I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design best practices**, helping organizations transform complex data into actionable insights. My background bridges **clinical and operational workflows** with data-driven strategies to improve decision-making, efficiency, and access to care.  
+I’m a **Data Analytics Consultant** with **14 years of healthcare industry experience** and expertise in **Tableau, SQL, and dashboard design best practices**. My background bridges **clinical and operational workflows** with data-driven strategies to improve decision-making, efficiency, and access to care.
 
 💡 **What I Do:**  
 - Build **interactive Tableau dashboards** that reveal trends and improve stakeholder insights  
@@ -10,12 +10,23 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 
 ---
 
-## 🛠️ Tools & Skills  
+## 🛠️ Technical Skills  
 
-**Visualization:** Tableau Desktop, Tableau Prep, Tableau Cloud  
-**Data:** SQL (AWS Redshift, Google BigQuery), Data Modeling, KPI Development  
-**BI Process:** Jira Workflow Templates, Performance Tuning, BI Governance  
-**Domain Knowledge:** Healthcare Analytics, Operational Metrics, Quality & Access to Care  
+**Visualization & BI Tools:** Tableau Desktop, Tableau Prep, Tableau Cloud, Dashboard UX/UI Best Practices  
+**Data Modeling:** SQL (AWS Redshift, Google BigQuery), Alteryx  
+**Platform Administration:** Tableau Cloud Site Administration (user provisioning, permissions, governance, troubleshooting), BI Access & Security Controls  
+**Workflow Management:** Jira Workflow Templates, Analytics Inbox Triaging, Ad Hoc Request Management, Stakeholder Requirement Documentation  
+**Collaboration & Enablement:** Stakeholder Training & Enablement Sessions, User Acceptance Testing (UAT) Support, Knowledge Transfer & Documentation  
+
+
+## 🏥 Healthcare Industry Expertise  
+
+**Healthcare Standards & Regulations:** HIPAA, CPT Codes, ICD-10, Medicare, Medicaid, EHR Systems (Epic)  
+**Healthcare Operations & Analytics:** Clinical Workflow Optimization, Patient Access & Care Efficiency, Quality Metrics & Outcome Reporting  
+**Patient Populations & Care Settings:** Acute Care, Inpatient Rehab, Outpatient, Long-Term Care, Pediatric & Adult Populations  
+**Medical Devices & Procedures:** PEG Tubes, Tracheostomies, Decannulation Caps, Heat Moisture Exchange (HME) Filters, Speaking Valves, Cochlear Implants, Modified Barium Swallow Studies (MBSS)  
+**Clinical Diagnoses & Conditions:** Stroke, TBI, Dysphagia, Head & Neck Cancer, Neurodegenerative Disorders (Parkinson’s, ALS), Aphasia, Apraxia, Pediatric Feeding Disorders, Autism Spectrum Disorder (ASD), Developmental Language Disorders, Childhood Apraxia of Speech, Genetic Syndromes (Down Syndrome)  
+
 
 ---
 
