@@ -77,6 +77,31 @@ I’m a **Data Analytics Consultant** with **14 years of healthcare industry exp
   </a>
 </p>
 
+## 📂 Dashboard Documentation  
+
+Explore how selected dashboards were built—see the calculation logic, drilldowns, and interaction flows:  
+
+<p align="center">
+  <a href="dashboard-docs/exec-overview-bar-in-bars.md">
+    <img src="images/Exec%20Overview%20Bar%20in%20Bars.jpeg" width="200"><br>
+    <b>Exec Overview – Bar in Bars</b>
+  </a>
+  <a href="dashboard-docs/staff-performance-overview.md">
+    <img src="images/Staff%20Performance%20Overview%20%7C%20Health%20Clinic.jpeg" width="200"><br>
+    <b>Staff Performance Overview</b>
+  </a>
+  <a href="dashboard-docs/world-happiness-rankings.md">
+    <img src="images/World%20Happiness%20Rankings2.jpeg" width="200"><br>
+    <b>World Happiness Rankings</b>
+  </a>
+  <a href="dashboard-docs/olympics-dashboard.md">
+    <img src="images/Olympics%20Dashboard.jpeg" width="200"><br>
+    <b>Olympics Dashboard</b>
+  </a>
+</p>
+
+➡️ [**See All Dashboard Docs**](dashboard-docs/README.md)
+
 
 ## LinkedIn Posts
 
