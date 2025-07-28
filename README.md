@@ -19,18 +19,6 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 
 ---
 
-## 📂 More Visualizations  
-
-Explore my full Tableau Public portfolio here:  
-➡️ [**View All Dashboards on Tableau Public**](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)  
-
----
-
-## 🔗 Connect with Me  
-
-💼 [**LinkedIn Profile**](https://www.linkedin.com/in/samafitz/)  
----
-
 ## 📊 Tableau Dashboard Portfolio  
 
 <p align="center">
@@ -110,3 +98,11 @@ Explore my full Tableau Public portfolio here:
     <img src="images/Dashboard%20Design%20Tips%20Bump%20Charts.jpeg" width="200">
   </a>
 </p>
+
+
+
+---
+
+➡️ [**View All Dashboards on Tableau Public**](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)  
+
+💼 [**LinkedIn Profile**](https://www.linkedin.com/in/samafitz/)  
