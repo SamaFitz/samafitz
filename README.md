@@ -81,12 +81,15 @@ Click any thumbnail below to view the live Tableau Public version.
   </a>
 </p>
 
+---
+
 ## 📂 Dashboard Documentation  
 
 Want to see how selected dashboards were built complete with drilldown logic, interaction flows, and calculation details?  
 
 ➡️ [**Explore the Dashboard Docs**](dashboard-docs/README.md)
 
+---
 
 ## 💡 LinkedIn Posts  
 
@@ -124,7 +127,14 @@ Click any thumbnail below to read the original post.
   </a>
 </p>
 
+---
 
+## 🧩 Personal Projects  
+
+These earlier projects built my foundation in data analytics before I specialized in healthcare analytics:  
+
+- **[Python Project: Instacart Sales Analysis](https://github.com/SamaFitz/Python-Instacart)** – Explored online grocery sales trends to support business strategy.  
+- **[SQL Project: Rockbuster Stealth Rentals](https://github.com/SamaFitz/Python-Instacart)** – Analyzed a movie rental database using PostgreSQL to uncover business insights.  
 
 ---
 
