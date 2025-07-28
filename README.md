@@ -20,6 +20,7 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 ---
 
 📂 **More Visualizations:** [My Tableau Public Portfolio]([https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)
+
 🔗 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/samafitz/)
 
 ---
