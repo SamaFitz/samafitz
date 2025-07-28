@@ -31,6 +31,10 @@ I’m a **Data Analytics Consultant** with **14 years of healthcare industry exp
 ---
 
 ## 📊 Tableau Dashboard Portfolio  
+A curated collection of business dashboards highlighting **healthcare analytics**, operational insights, and data-driven decision-making.  
+Each dashboard is designed with **clean visual storytelling**, **drilldown interactivity**, and **performance optimization** for real-world workflows.  
+Click any thumbnail below to view the live Tableau Public version.
+
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/samantha.fitzsimmons/viz/ProvisionalCountsofCOVIDPNAFlu/MortalityDashboard">
@@ -79,12 +83,16 @@ I’m a **Data Analytics Consultant** with **14 years of healthcare industry exp
 
 ## 📂 Dashboard Documentation  
 
-Want to see how selected dashboards were built—complete with drilldown logic, interaction flows, and calculation details?  
+Want to see how selected dashboards were built complete with drilldown logic, interaction flows, and calculation details?  
 
 ➡️ [**Explore the Dashboard Docs**](dashboard-docs/README.md)
 
 
-## LinkedIn Posts
+## 💡 LinkedIn Posts  
+
+A collection of bite-sized tips on **dashboard design best practices** and **SQL techniques**—focused on creating clear, interactive visualizations and writing efficient, maintainable queries.  
+
+Click any thumbnail below to read the original post.
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/samafitz_dashboard-design-tips-layout-activity-7185985287053791232-OO-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAArCEAgB14OipLUR_aIdPkLfg5fRf1voh4s">
