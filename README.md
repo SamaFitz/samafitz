@@ -91,6 +91,14 @@ Want to see how selected dashboards were built complete with drilldown logic, in
 
 ---
 
+## 🗄️ SQL Scripts
+
+Sample scripts for common analytics tasks, including parsing nested JSON, categorizing unstructured text, and aggregating web or event-level data. Useful for both ad hoc exploration and production queries.
+
+➡️ [**View SQL Scripts**](sql-scripts/README.md)
+
+---
+
 ## 💡 LinkedIn Posts  
 
 A collection of bite-sized tips on **dashboard design best practices** and **SQL techniques**—focused on creating clear, interactive visualizations and writing efficient, maintainable queries.  
