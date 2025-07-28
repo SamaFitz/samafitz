@@ -10,34 +10,6 @@ I’m a **Data Analytics Consultant** with **14 years of healthcare industry exp
 
 ---
 
-## 🛠️ Technical Skills  
-
-**Visualization & BI Tools:** Tableau Desktop, Tableau Prep, Tableau Cloud, Dashboard UX/UI Best Practices  
-
-**Data Modeling:** SQL (AWS Redshift, Google BigQuery), Alteryx  
-
-**Platform Administration:** Tableau Cloud Site Administration (user provisioning, permissions, governance, troubleshooting), BI Access & Security Controls  
-
-**Workflow Management:** Jira Workflow Templates, Analytics Inbox Triaging, Ad Hoc Request Management, Stakeholder Requirement Documentation  
-
-**Collaboration & Enablement:** Stakeholder Training & Enablement Sessions, User Acceptance Testing (UAT) Support, Knowledge Transfer & Documentation  
-
-
-## 🏥 Healthcare Industry Expertise  
-
-**Healthcare Standards & Regulations:** HIPAA, CPT Codes, ICD-10, Medicare, Medicaid, EHR Systems (Epic)  
-
-**Healthcare Operations & Analytics:** Clinical Workflow Optimization, Patient Access & Care Efficiency, Quality Metrics & Outcome Reporting  
-
-**Patient Populations & Care Settings:** Acute Care, Inpatient Rehab, Outpatient, Long-Term Care, Pediatric & Adult Populations  
-
-**Medical Devices & Procedures:** PEG Tubes, Tracheostomies, Decannulation Caps, Heat Moisture Exchange (HME) Filters, Speaking Valves, Cochlear Implants, Modified Barium Swallow Studies (MBSS)  
-
-**Clinical Diagnoses & Conditions:** Stroke, TBI, Dysphagia, Head & Neck Cancer, Neurodegenerative Disorders (Parkinson’s, ALS), Aphasia, Apraxia, Pediatric Feeding Disorders, Autism Spectrum Disorder (ASD), Developmental Language Disorders, Childhood Apraxia of Speech, Genetic Syndromes (Down Syndrome)  
-
-
----
-
 ## 📊 Tableau Dashboard Portfolio  
 A curated collection of business dashboards highlighting **healthcare analytics**, operational insights, and data-driven decision-making.  
 Each dashboard is designed with **clean visual storytelling**, **drilldown interactivity**, and **performance optimization** for real-world workflows.  
@@ -151,6 +123,33 @@ These earlier projects built my foundation in data analytics before I specialize
 
 - **[Python Project: Instacart Sales Analysis](https://github.com/SamaFitz/Python-Instacart)** – Explored online grocery sales trends to support business strategy.  
 - **[SQL Project: Rockbuster Stealth Rentals](https://github.com/SamaFitz/Python-Instacart)** – Analyzed a movie rental database using PostgreSQL to uncover business insights.  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Visualization & BI Tools:** Tableau Desktop, Tableau Prep, Tableau Cloud, Dashboard UX/UI Best Practices  
+
+**Data Modeling:** SQL (AWS Redshift, Google BigQuery), Alteryx, Python  
+
+**Platform Administration:** Tableau Cloud Site Administration (user provisioning, permissions, governance, troubleshooting), BI Access & Security Controls  
+
+**Workflow Management:** Jira Workflow Templates, Analytics Inbox Triaging, Ad Hoc Request Management, Stakeholder Requirement Documentation  
+
+**Collaboration & Enablement:** Stakeholder Training & Enablement Sessions, User Acceptance Testing (UAT) Support, Knowledge Transfer & Documentation  
+
+
+## 🏥 Healthcare Industry Expertise  
+
+**Healthcare Standards & Regulations:** HIPAA, CPT Codes, ICD-10, Medicare, Medicaid, EHR Systems (Epic)  
+
+**Healthcare Operations & Analytics:** Clinical Workflow Optimization, Patient Access & Care Efficiency, Quality Metrics & Outcome Reporting  
+
+**Patient Populations & Care Settings:** Acute Care, Inpatient Rehab, Outpatient, Long-Term Care, Pediatric & Adult Populations  
+
+**Medical Devices & Procedures:** PEG Tubes, Tracheostomies, Decannulation Caps, Heat Moisture Exchange (HME) Filters, Speaking Valves, Cochlear Implants, Modified Barium Swallow Studies (MBSS)  
+
+**Clinical Diagnoses & Conditions:** Stroke, TBI, Dysphagia, Head & Neck Cancer, Neurodegenerative Disorders (Parkinson’s, ALS), Aphasia, Apraxia, Pediatric Feeding Disorders, Autism Spectrum Disorder (ASD), Developmental Language Disorders, Childhood Apraxia of Speech, Genetic Syndromes (Down Syndrome)  
 
 ---
 
