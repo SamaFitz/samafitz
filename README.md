@@ -19,8 +19,8 @@ I’m a **Data Analyst** with expertise in **Tableau, SQL, and dashboard design 
 
 ---
 
-📂 **More Visualizations:** [My Tableau Public Portfolio]([https://public.tableau.com/app/profile/your-profile](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes))  
-🔗 **Connect with Me:** [LinkedIn]([https://linkedin.com/in/samafitz](https://www.linkedin.com/in/samafitz/))  
+📂 **More Visualizations:** [My Tableau Public Portfolio]([https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes))  
+🔗 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/samafitz/))  
 
 ---
 
