@@ -2,12 +2,6 @@
 
 I’m a **Data Analytics Consultant** with **14 years of healthcare industry experience** and expertise in **Tableau, SQL, and dashboard design best practices**. My background bridges **clinical and operational workflows** with data-driven strategies to improve decision-making, efficiency, and access to care.
 
-💡 **What I Do:**  
-- Build **interactive Tableau dashboards** that reveal trends and improve stakeholder insights  
-- Write **clean, well-documented SQL** for AWS Redshift & Google BigQuery  
-- Optimize **dashboard performance and data refresh strategies** for faster, more reliable analytics  
-- Streamline **analytics workflows** with Jira templates, optimizing extract refreshes, and BI best practices  
-
 ---
 
 ## 📊 Tableau Dashboard Portfolio  
