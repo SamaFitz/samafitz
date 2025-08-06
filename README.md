@@ -4,7 +4,7 @@ I’m a Data Analytics Consultant with 14 years of healthcare industry experienc
 
 ---
 
-## 📊 Tableau Dashboard Portfolio |  Click any thumbnail below to view on Tableau Public.
+## 📊 Click any thumbnail below to view full Tableau Public Portfolio.
 
 
 <p align="center">
