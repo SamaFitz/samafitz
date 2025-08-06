@@ -54,25 +54,9 @@ I’m a Data Analytics Consultant with 14 years of healthcare industry experienc
 
 ---
 
-## 📂 Dashboard Documentation  
-
-Want to see how selected dashboards were built complete with drilldown logic, interaction flows, and calculation details?  
-
-➡️ [**Explore the Dashboard Docs**](dashboard-docs/README.md)
-
----
-
-## 🗄️ SQL Scripts
-
-Sample scripts for common analytics tasks, including parsing nested JSON, categorizing unstructured text, and aggregating web or event-level data. Useful for both ad hoc exploration and production queries.
-
-➡️ [**View SQL Scripts**](sql-scripts/README.md)
-
----
-
 ## 💡 LinkedIn Posts  
 
-A collection of bite-sized tips on **dashboard design best practices** and **SQL techniques**—focused on creating clear, interactive visualizations and writing efficient, maintainable queries.  
+A collection of bite-sized tips on dashboard design best practices and SQL techniques focused on creating clear, interactive visualizations and writing efficient, maintainable queries.  
 
 Click any thumbnail below to read the original post.
 
@@ -105,6 +89,24 @@ Click any thumbnail below to read the original post.
     <img src="images/Dashboard%20Design%20Tips%20Bump%20Charts.jpeg" width="200">
   </a>
 </p>
+
+---
+
+## 📂 Dashboard Documentation  
+
+Want to see how selected dashboards were built complete with drilldown logic, interaction flows, and calculation details?  
+
+➡️ [**Explore the Dashboard Docs**](dashboard-docs/README.md)
+
+---
+
+## 🗄️ SQL Scripts
+
+Sample scripts for common analytics tasks, including parsing nested JSON, categorizing unstructured text, and aggregating web or event-level data. Useful for both ad hoc exploration and production queries.
+
+➡️ [**View SQL Scripts**](sql-scripts/README.md)
+
+---
 
 ---
 
