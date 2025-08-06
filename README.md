@@ -4,7 +4,7 @@ I’m a Data Analytics Consultant with 14 years of healthcare industry experienc
 
 ---
 ## 📊 Dashboard Project Portfolio
-## 👇🏻 Click any thumbnail to view on Tableau Public ➡️ or go to [**Complete Tableau Portfolio**](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)  
+## 👇🏻 Click any thumbnail ➡️ or go to [**Complete Tableau Portfolio**](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)  
 
 
 <p align="center">
