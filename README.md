@@ -3,8 +3,8 @@
 I’m a Data Analytics Consultant with 14 years of healthcare industry experience and expertise in Tableau, SQL, and dashboard design best practices. My background bridges clinical and operational workflows with data-driven strategies to improve decision-making, efficiency, and access to care.
 
 ---
-
-## 📊 Click any thumbnail below to view full Tableau Public Portfolio.
+### 📊 Dashboard Project Portfolio
+## 👇🏻 Click any thumbnail to view on Tableau Public.
 
 
 <p align="center">
@@ -54,7 +54,8 @@ I’m a Data Analytics Consultant with 14 years of healthcare industry experienc
 
 ---
 
-## 💡 LinkedIn Posts  
+### 💡 LinkedIn Posts 
+## 👇🏻 Click any thumbnail to view on LinkedIn.
 
 A collection of bite-sized tips on dashboard design best practices and SQL techniques focused on creating clear, interactive visualizations and writing efficient, maintainable queries.  
 
