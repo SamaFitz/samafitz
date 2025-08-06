@@ -3,8 +3,8 @@
 I’m a Data Analytics Consultant with 14 years of healthcare industry experience and expertise in Tableau, SQL, and dashboard design best practices. My background bridges clinical and operational workflows with data-driven strategies to improve decision-making, efficiency, and access to care.
 
 ---
-### 📊 Dashboard Project Portfolio
-## 👇🏻 Click any thumbnail to view on Tableau Public.
+## 📊 Dashboard Project Portfolio
+## 👇🏻 Click any thumbnail to view on Tableau Public ➡️ or go to [**Complete Tableau Portfolio**](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)  
 
 
 <p align="center">
@@ -54,7 +54,7 @@ I’m a Data Analytics Consultant with 14 years of healthcare industry experienc
 
 ---
 
-### 💡 LinkedIn Posts 
+## 💡 LinkedIn Posts 
 ## 👇🏻 Click any thumbnail to view on LinkedIn.
 
 A collection of bite-sized tips on dashboard design best practices and SQL techniques focused on creating clear, interactive visualizations and writing efficient, maintainable queries.  
@@ -147,6 +147,5 @@ These earlier projects built my foundation in data analytics before I specialize
 
 ---
 
-➡️ [**View All Dashboards on Tableau Public**](https://public.tableau.com/app/profile/samantha.fitzsimmons/vizzes)  
 
 💼 [**LinkedIn Profile**](https://www.linkedin.com/in/samafitz/)  
