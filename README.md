@@ -5,8 +5,6 @@ I’m a **Data Analytics Consultant** with **14 years of healthcare industry exp
 ---
 
 ## 📊 Tableau Dashboard Portfolio  
-A curated collection of business dashboards highlighting **healthcare analytics**, operational insights, and data-driven decision-making.  
-Each dashboard is designed with **clean visual storytelling**, **drilldown interactivity**, and **performance optimization** for real-world workflows.  
 Click any thumbnail below to view the live Tableau Public version.
 
 
